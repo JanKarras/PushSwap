@@ -98,5 +98,33 @@ KO
 ```
 This allows us to validate not just the logic of our algorithm but also the correctness of any optimization we apply during development.
 
+## 📊 Visualizer
 
+<p>To visualize the operations and sorting process, you can use the following online tool: </p>
 https://push-swap42-visualizer.vercel.app/
+
+<p></p>
+
+<p>▶️ How to use it:</p>
+<p>1. Run push_swap with your input:</p>
+
+```bash
+./push_swap 3 2 1
+```
+
+<p>2. Copy the output from the terminal:</p>
+
+```bash
+pb
+pb
+sa
+pa
+pa
+```
+
+<p>3. Open the visualizer and:</p>
+
+- Paste your input numbers (e.g. 3 2 1) in the top field.
+- Paste the operations in the bottom field.
+
+<p>4. Hit “Start” to see the sorting process step-by-step.</p>
